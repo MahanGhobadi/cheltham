@@ -155,7 +155,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Borrow Log</label>
     <nameField>
-        <displayFormat>{0}</displayFormat>
+        <displayFormat>Borrowed Item -{0}</displayFormat>
         <label>Borrowed Item</label>
         <trackHistory>false</trackHistory>
         <type>AutoNumber</type>

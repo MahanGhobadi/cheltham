@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Book_Copies__c</fullName>
+    <fullName>Book__c</fullName>
     <description>Relationship between meta-data of a book to its related physical copies.</description>
     <externalId>false</externalId>
-    <label>Book Copies</label>
+    <label>Book</label>
     <referenceTo>Book__c</referenceTo>
-    <relationshipLabel>Book Copies</relationshipLabel>
+    <relationshipLabel>Book</relationshipLabel>
     <relationshipName>Book_Copies</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
