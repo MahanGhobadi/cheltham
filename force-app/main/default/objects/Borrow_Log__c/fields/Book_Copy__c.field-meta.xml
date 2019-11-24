@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Book_Copy__c</fullName>
+    <description>Relationship between one physical copy of a book to its borrowed history.</description>
+    <externalId>false</externalId>
+    <label>Book Copy</label>
+    <referenceTo>Book_Copy__c</referenceTo>
+    <relationshipLabel>Borrow Logs</relationshipLabel>
+    <relationshipName>Borrow_Logs</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
