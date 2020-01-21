@@ -13,14 +13,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-<<<<<<< HEAD
-        <field>Book__c.Summary__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-=======
->>>>>>> b366795518525cc408d6ee53a2d35d4c30a15602
         <field>Book__c.Edition__c</field>
         <readable>true</readable>
     </fieldPermissions>
