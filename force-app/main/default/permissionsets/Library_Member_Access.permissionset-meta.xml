@@ -13,7 +13,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Book__c.Description__c</field>
+        <field>Book__c.Summary__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
